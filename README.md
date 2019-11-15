@@ -3,7 +3,7 @@
 <img width="1000" height="500" src="img/logo(3).jpg">
 <table>
    <td>
-      <tr><img src="img/pic"></tr>
+      <tr><img src="img/pic.jpg"></tr>
    </td>
 </table>
 <h2>online market</h2> 
