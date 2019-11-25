@@ -1,0 +1,36 @@
+{
+  "name": "2017080021-RIDE-online-market",
+  "version": "1.0.0",
+  "description": "<img width=\"900\" height=\"500\" src=\"img/logo(3).jpg\">",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAWI888/2017080021-RIDE-online-market.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAWI888/2017080021-RIDE-online-market/issues"
+  },
+  "homepage": "https://github.com/HAWI888/2017080021-RIDE-online-market#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.12",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
