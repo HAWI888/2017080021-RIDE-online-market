@@ -1,37 +1,29 @@
 {
-  "name": "2017080021-RIDE-online-market",
+  "name": "online-shopping",
   "version": "1.0.0",
-  "description": "<img width=\"900\" height=\"500\" src=\"img/logo(3).jpg\">",
+  "description": "YUMMY CAKES AND PASTRIES.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HAWI888/2017080021-RIDE-online-market.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ash",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/HAWI888/2017080021-RIDE-online-market/issues"
+  "engines": {
+    "node": "10.16.3"
   },
-  "homepage": "https://github.com/HAWI888/2017080021-RIDE-online-market#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "connect-flash": "^0.1.1",
+    "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
-    "ejs": "^3.0.1",
+    "ejs": "^2.7.4",
     "express": "^4.17.1",
-    "express-ejs-layouts": "^2.5.0",
+    "express-flash": "0.0.2",
     "express-session": "^1.17.0",
-    "mongodb": "^3.3.4",
-    "mongoose": "^5.7.12",
+    "method-override": "^3.0.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.1"
-  }
+  "devDependencies": {}
 }
