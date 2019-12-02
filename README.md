@@ -21,8 +21,8 @@ INTRODUCTION
 <li>html
 <li>css
 <h2>PLAN;</h2>
-<li>WEEK 8-Finshed Frontend
-<li>week 9-start backend
-<li>week 10 javascript
+<li>WEEK 10,11-Finshed Frontend
+<li>week 12,13-start backend
+<li>week 14 javascript
 <li>submitting when its done
 
